@@ -30,3 +30,8 @@ dashboard-img {
   object-fit: cover;
   object-position: 0% 0%;
 }
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  
+}
